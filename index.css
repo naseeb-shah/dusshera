@@ -1,0 +1,20 @@
+body{
+    background-image: url('https://media.tenor.com/aQjJpURe1lsAAAAC/midnightcake-happy-dashera.gif');
+}
+img{
+    width: 100%;
+    opacity: .8;
+    height: 600px;
+}
+h2{
+    color:white;
+   
+    text-align: center;
+    text-shadow: 10px;
+    background:rgba(255, 0, 0, 0.766);
+    position: fixed;
+    top: 0;
+    left: .5;
+    font-size: 100px;
+    animation: forwards;
+}
